@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "fertilityTracking",
+    "slug": "fertilityTracking",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "fertilityTracking"
+}
