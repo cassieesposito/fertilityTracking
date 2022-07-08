@@ -1,6 +1,17 @@
 {
   "name": "fertilitytracking",
-  "version": "1.0.0",
+  "version": "0.0.1",
+  "description": "A security focused fertility tracking app",
+    "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cassieesposito/fertilityTracking.git"
+  },
+  "author": "",
+  "license": "",
+  "bugs": {
+    "url": "https://github.com/cassieesposito/fertilityTracking/issues"
+  },
+  "homepage": "https://github.com/cassieesposito/fertilityTracking#readme",
   "main": "index.js",
   "scripts": {
     "start": "expo start --dev-client",
