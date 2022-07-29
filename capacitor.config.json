@@ -1,0 +1,6 @@
+{
+  "appId": "org.timevault.fertilityTracking",
+  "appName": "Private Fertility Tracker",
+  "webDir": "www",
+  "bundledWebRuntime": false
+}
