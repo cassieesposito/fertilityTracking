@@ -1,0 +1,6 @@
+{
+  "appId": "com.example.app",
+  "appName": "fertilitytracking",
+  "webDir": "build",
+  "bundledWebRuntime": false
+}
